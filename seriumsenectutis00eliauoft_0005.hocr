@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./seriumsenectutis00eliauoft_0005.png"; bbox 0 0 2158 3366; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 415 449 1555 604">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 415 449 1555 604">
+     <span class='ocr_line' id='line_1_1' title="bbox 415 449 1555 604; baseline 0.009 -59"><span class='ocrx_word' id='word_1_1' title='bbox 415 449 692 548; x_wconf 79' lang='lat' dir='ltr'>Elias</span> <span class='ocrx_word' id='word_1_2' title='bbox 742 451 859 549; x_wconf 82' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_3' title='bbox 902 453 1453 587; x_wconf 86' lang='lat' dir='ltr'>Thriplow</span> <span class='ocrx_word' id='word_1_4' title='bbox 1552 601 1555 604; x_wconf 15' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 449 650 1417 753">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 449 650 1417 753">
+     <span class='ocr_line' id='line_1_2' title="bbox 449 650 1417 753; baseline 0.008 -8"><span class='ocrx_word' id='word_1_5' title='bbox 449 650 833 748; x_wconf 78' lang='lat' dir='ltr'><em>Serium</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 885 656 1417 753; x_wconf 78' lang='lat' dir='ltr'><strong><em>senectutis</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

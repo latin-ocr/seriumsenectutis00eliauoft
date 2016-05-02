@@ -1,0 +1,58 @@
+Commentary
+
+For the sake of precision, 1 cite prose sources by both their place in the original
+text (book, chapter, section, or line) and their page and line location in the edition
+to which 1 refer. 1 have tried to distinguish between certain or near certain
+sources, on the one hand, and possible sources or analoguae, on the other, by
+introducing all references to the latter by ¹¹cf.'' Abbreviated titles for books of the
+Bible are those used by Robert Weber et al. in their edition of the Vulgate. 'Ihis
+commentary also employs the following abbreviations:
+
+Beitriige Beitriige zur Geschichte der Philosophie des Mittelalters
+CL classical Latin
+
+CSEL Corpus scriptorum ecclesiasticorum Latinorum
+
+MLD Dictionary ofMedieval Latin from British Sources
+
+OLD Oxford Latin Dictionary
+
+TLL Thesaurus linguae Latinae
+
+Full publication data for works cited here are available in the bibliography.
+
+Book One
+
+1-28 This poem on the marriages of the gods is inspired by the invocation of
+Hymen with which Martianus Capella begins his De nuptiis Philologiae et Mercurii
+1.1 (ed. Willis 1.4ff). For surveys of Martianus's influence, see C. Leonardi, “Nota
+introduttiva per un'indagine sulla fortuna di Marziano Capella nel Medievo,'' and
+Gabriel Nuchelmans, “Philologia et son mariage avec Mercure jusq‘a la fin du xii‘
+siecle? Willis provides extensive bibliography in his Teubner edition (Leipzig,
+1983). Books 1 and 2 often circulated apart from the rest of the work in the
+thirteenth and fourteenth centuries, see Leonardi, “1 codici di Marziano Capella.''
+Elias also imitates Martianus by continuing his sense units from pentameter to
+
+hexameter in violation of the classical norm for elegiae verse.
+
+2 felici federe: Cf. Catullus, Carmina (ed. Mynors) 64373.
+
+4-9 Elias echoes Martianus 1.3 (2.17ff.).
+
+4 veruta: Such a word is attested by Aulus Gellius, Noctes Atticae 18.2.12 (ed.
+Marshall, 540.24-26): “Secundum ea hoc quaesitum est, uerbum ‘uerant,' quod
+significat ‘uera dicunt,¹ quisnam poetarum ueterum dixerit.‘' But it is inconceiv—
+able that a grammarian would scan veram. Verita would fit the meter but does
+not yield an acceptable sense unless Elias means the perfect to have a passive
+sense. 'I'he translation assumes such a sense, equivalent to that of verenda, “to be
+held in awe or reverence.'¹
+
+6 The Abderite and Coan are Vulcan and Venus respectively.
+
+7 For Argiona (¹‘the Argive‘¹), cf. Martianus 1.4 (3.11).
+
+11-12 For Admetus and Alcestis, see below 1.89-93.
+
+13 ceteris cupido: The classical idiom would be better served by emending to
+ceteri, but the dative shows signs of encroaching on the genitive elsewhere in
+

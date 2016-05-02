@@ -1,0 +1,41 @@
+Index verborum
+
+This index lists all post-classical words or senses of words, along
+with rariora and technical terms of any provenance, appearing in the
+Serium senectutis. It treats as post-classical words or senses which do not
+appear in the Oxford Latin Dictionary (OLD), but for matters of documen-
+tation or interpretation, the OLD has been consulted in tandem with the
+Thesaurus linguae Latinae (TLL). 'I’he OLD, TLL and Dictionary ofMedieval
+Latin from British Sources (MLD) have been consulted for every word they
+cover. However, only the OLD is complete. In the Thesaurus linguae
+Latinae, 1 have been able to consult volumes 1-9 and volume 10, part 1,
+fascicules 1-4, and part 2, fascicules 1-5 (A-M, 0-pastor, porta—praepo-
+tens). In the Dictionary ofMedieval Latin from British Sources, I have been
+able to consult fascicules 1-4 (A-inconsonans).¹
+
+For all words outside the scope of the TLL and MLD as published to
+date, I have consulted Alexander Souter's Glossary of Later Latin (S) and
+R. E. Latham's Revised Medieval Latin Word-List from British Sources (L)
+respectively. These books supply reliable corpora of late and medieval
+Latin and are usefully related to the larger works they stand in for.
+Souter admits his debt to the Thesaurus linguae Latinae, to which he
+contributed material, in his preface, and the Revised Word-List was com-
+piled from an earlier version of the data base now being used to write
+the MLD. However, readers should note a slight difference in my use of
+S and L. Because Souter carefully outlines the independent reading
+program which underlies his Glossary, 1 sometimes cite S when the TLL
+is silent; however, since the editors of the Medieval Latin Dictionary,
+beginning with Latham himself, have scrutinized anew all the material in
+the Word-List, I never cite L when MLD is silent.
+
+For words and senses which do not appear in the OLD, TLLJS or
+MLD] L, 1 sometimes suggest analogues or probable sources. Normally,
+I do not cite senses not used by Elias, even when those senses are docu-
+mented and the sense employed by Elias is not. However, 1 stretch this
+rule somewhat in the case of words having technical senses related to the
+trivium, where it seems likely that Elias' usage might have been influ-
+enced or triggered by his knowledge of the technical term.
+
+¹1 am grateful to D. R. Howlett, editor of the Dictionary osMedieval Latin, for collating
+this index against the contents of fascicule 4 in advance of publication.
+

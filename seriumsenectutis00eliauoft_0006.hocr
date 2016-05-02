@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./seriumsenectutis00eliauoft_0006.png"; bbox 0 0 2158 3366; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 518 495 1890 723">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 518 495 1890 723">
+     <span class='ocr_line' id='line_1_1' title="bbox 518 495 1890 560; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 518 495 1042 560; x_wconf 56' lang='lat' dir='ltr'>memeval,</span> <span class='ocrx_word' id='word_1_2' title='bbox 1080 507 1149 559; x_wconf 63' lang='lat' dir='ltr'>st</span> <span class='ocrx_word' id='word_1_3' title='bbox 1187 506 1890 559; x_wconf 56' lang='lat' dir='ltr'>Reualsssamce</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 763 646 1638 723; baseline 0 -13"><span class='ocrx_word' id='word_1_4' title='bbox 763 657 1066 723; x_wconf 63' lang='lat' dir='ltr'>‘texts</span> <span class='ocrx_word' id='word_1_5' title='bbox 1108 657 1176 710; x_wconf 67' lang='grc' dir='ltr'>ει</span> <span class='ocrx_word' id='word_1_6' title='bbox 1216 646 1638 710; x_wconf 68' lang='lat' dir='ltr'>STubleS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1015 1116 1391 1173">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1015 1116 1391 1173">
+     <span class='ocr_line' id='line_1_3' title="bbox 1015 1116 1391 1173; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 1015 1116 1260 1173; x_wconf 79' lang='lat' dir='ltr'>VOLUME</span> <span class='ocrx_word' id='word_1_8' title='bbox 1296 1125 1391 1173; x_wconf 91' lang='lat'>116</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1006 2740 1411 3139">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1006 2740 1411 3139">
+     <span class='ocr_line' id='line_1_4' title="bbox 1006 2740 1411 3139; baseline 0 227"><span class='ocrx_word' id='word_1_9' title='bbox 1006 2740 1411 3139; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
